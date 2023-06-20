@@ -9,3 +9,10 @@ Combining Online and Offline Knowledge in UCT
 
 # Compile
 $ make
+
+# Run
+$ ./go11
+
+100 playout/move. (default is 1000 playouts/move)  
+$ ./go11 -p100
+
